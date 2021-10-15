@@ -14,4 +14,4 @@ The CVDP-LE can read in the following data types as input:
 - Observations with file names and data array names matching CMIP conventions.
 
 # Getting help
-If the <a href="https://github.com/NCAR/CVDP-LE/blob/master/CVDP-LE_readme_1.0.0.pdf">readme file</a> and the <a href="http://dx.doi.org/10.5065/h7c7-f961">CVDP-LE User’s Guide</a> do not answer your query or if you have a bug report or suggestion, it is recommended that you <a href="https://github.com/NCAR/CVDP-LE/issues">open an issue on Github</a>. 
+If the <a href="https://github.com/NCAR/CVDP-LE/blob/master/CVDP-LE_readme_1.0.0.pdf">readme file</a>, the <a href="http://dx.doi.org/10.5065/h7c7-f961">CVDP-LE User’s Guide</a> or the <a href="https://www.cesm.ucar.edu/working_groups/CVC/cvdp-le/">CVDP-LE website</a> do not answer your query or if you have a bug report or suggestion, it is recommended that you <a href="https://github.com/NCAR/CVDP-LE/issues">open an issue on Github</a>. 
