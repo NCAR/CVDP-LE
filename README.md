@@ -6,7 +6,7 @@ The package computes a wide range of modes of interannual-to-multidecadal variab
 CVDP-LE example comparison:<br>
 <a href="http://webext.cgd.ucar.edu/Multi-Case/CVDP-LE_repository/CMIP6_Historical_1900-2014/">CMIP6 Historical 1900-2014</a>
 
-The CVDP-LE is the successor to the <a href="https://github.com/NCAR/CVDP-ncl">CVDP</a>. Note that while many of the individual simulation metrics are similar between the CVDP and CVDP-LE, the CVDP-LE has more of a focus on ensemble metrics. 
+The CVDP-LE is the successor to the <a href="https://github.com/NCAR/CVDP-ncl">CVDP</a>. Note that while many of the individual simulation metrics are similar between the CVDP and CVDP-LE, the CVDP-LE has a focus on ensemble metrics. 
 
 # Getting Started
 View the <a href="https://github.com/NCAR/CVDP-LE/blob/master/CVDP-LE_readme_1.0.0.pdf">readme file</a> for details on how to run the CVDP-LE. The <a href="http://dx.doi.org/10.5065/h7c7-f961">CVDP-LE User’s Guide</a> provides general background on initial-condition Large Ensembles, detailed documentation of 
